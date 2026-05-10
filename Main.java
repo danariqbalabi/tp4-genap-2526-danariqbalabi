@@ -1,18 +1,13 @@
 import entities.*;
-import entities.interfaces.*;
 import entities.monster.*;
-import entities.roles.*;
 import exception.*;
-import quests.*;
-import quests.enums.*;
-import quests.interfaces.*;
-import services.*;
-import utils.*;
-import utils.enums.*;
-import utils.interfaces.*;
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Scanner;
+import quests.*;
+import services.*;
+import utils.*;
+import utils.enums.*;
 
 /**
  * Main UI Controller untuk sistem BurhanQuest.
